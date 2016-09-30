@@ -1,0 +1,13 @@
+Package: com.Repo.koye.info.AppSyncios9
+Version: 5.8
+Architecture: iphoneos.arm
+Maintainer: repo.koye.info<koyeko19@gmail.com>
+Filename: /AppSyncios9.deb 
+Size: 30144
+MD5sum:  0A829C96A96A1213446C7CAEE5ACAE51
+SHA1: 879D05EA28DF1DEBB9FE002907E7794B34592526
+SHA256: FCA4C55B2B2FA6B291E3D1E0BDD370CE9DDCCB99A9C4411C44BA2F0AF1A1A96D 
+Section: Tweak
+Description: A test twrak for you'r ios icon name
+Author: repo.koye.info<koyeko19@gmail.com>
+Name: AppSyncios9

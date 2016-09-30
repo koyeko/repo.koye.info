@@ -1,0 +1,8 @@
+Origin: repo.koye.info
+Label: repo.koye.info
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneOs-arm
+components: main
+Description: repo.koye.info
