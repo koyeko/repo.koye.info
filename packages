@@ -1,13 +1,14 @@
-Package: com.Repo.koye.info.AppSyncios9
-Version: 5.8
+Package: com.Repo.koye.info.appcake
+Version: 5.5.1.8
 Architecture: iphoneos.arm
+Dependence: mobilesubstrate 
 Maintainer: repo.koye.info<koyeko19@gmail.com>
-Filename: /AppSyncios9.deb 
-Size: 30144
-MD5sum:  0A829C96A96A1213446C7CAEE5ACAE51
-SHA1: 879D05EA28DF1DEBB9FE002907E7794B34592526
-SHA256: FCA4C55B2B2FA6B291E3D1E0BDD370CE9DDCCB99A9C4411C44BA2F0AF1A1A96D 
-Section: Tweak
-Description: A test twrak for you'r ios icon name
+Filename: /AppCake.deb 
+Size: 8276654
+MD5sum: 3F2AACC9DF91D7F6AA9E8C2D2C3DFB74  
+SHA1: 6AE0F6D1DF8D2F3591CB62E496C5E2F44930D440
+SHA256: 0684A3BBE48B40B84D3592ABB1C86E2C364D886FB8A2616F008CCC58636962A4 
+Section:  Utilities
+Description: The new AppCake 5.5.1.8! Introducing Direct Download/Install! Require AppSync to be installed ***
 Author: repo.koye.info<koyeko19@gmail.com>
-Name: AppSyncios9
+Name: AppCake
